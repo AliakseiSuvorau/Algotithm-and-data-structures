@@ -1,7 +1,8 @@
 Some algorithms and data structures
 
-##Contents:
-###Data structures:
+## Contents:
+
+### Data structures:
 1) [AVL tree](/AVL_tree)
 2) [Fenwick tree](/Fenwick_tree)
 3) [Binary heap](/bin_heap)
@@ -12,7 +13,7 @@ Some algorithms and data structures
 8) [Splay tree](/splay_tree)
 
 
-###Algorithms:
+### Algorithms:
 1) [Least significant digit sort](/LSD_sort)
 2) [Condensation graph](/condensation_graph)
 3) [Dijkstra algorithm](/dijkstra_mlogn)
@@ -21,6 +22,6 @@ Some algorithms and data structures
 6) [Topological graph sort](/topological_sort)
 
 
-###Problems:
+### Problems:
 1) [Back pack](/backpack)
 2) [Travelling salesman problem](/travelling_salesman_problem)
