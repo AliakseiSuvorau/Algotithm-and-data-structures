@@ -20,8 +20,10 @@ Some algorithms and data structures
 4) [Greatest common subsequence](/greatest_common_subsequence)
 5) [Quick sort](/quick_sort)
 6) [Topological graph sort](/topological_sort)
+7) [Breadth first search](/BFS)
 
 
 ### Problems:
 1) [Back pack](/backpack)
 2) [Travelling salesman problem](/travelling_salesman_problem)
+3) [Finding shortest way in graph](/BFS)
