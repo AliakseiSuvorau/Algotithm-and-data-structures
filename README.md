@@ -21,6 +21,7 @@ Some algorithms and data structures
 5) [Quick sort](/quick_sort)
 6) [Topological graph sort](/topological_sort)
 7) [Breadth first search](/BFS)
+8) [Bridges search](/bridges)
 
 
 ### Problems:
