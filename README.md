@@ -22,6 +22,7 @@ Some algorithms and data structures
 6) [Topological graph sort](/topological_sort)
 7) [Breadth first search](/BFS)
 8) [Bridges search](/bridges)
+9) [Articulation points search](/articulation_points)
 
 
 ### Problems:
