@@ -25,7 +25,7 @@ Some algorithms and data structures
 8) [Bridges search](/bridges)
 9) [Articulation points search](/articulation_points)
 10) [Minimum spanning tree](/MST)
-##### Flows
+#### Flows
 11) Max flow search:
    + [Edmonds-Karp](/Edmonds-Karp)
    + [Ford-Fulkerson](/Ford-Fulkerson)
@@ -34,7 +34,7 @@ Some algorithms and data structures
 13) [Min split](/min_split)
 14) [Lowest common ancestor](/LCA)
 15) [Reduction RMQ problem to LCA](/RMQ_to_LCA)
-##### Strings
+#### Strings
 16) [Knuth–Morris–Pratt](/Knuth–Morris–Pratt)
 17) [Rabin-Karp](/Rabin-Karp)
 
